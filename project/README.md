@@ -16,8 +16,10 @@ Histórico de Pesquisas:
 Mostra todas as buscas realizadas pelo usuário em uma tabela formatada.
 Exibe colunas: Título do Filme e Data da Busca.
 
-Estrutura do Projeto
-project
+## Estrutura do Projeto
+
+```plaintext
+project/
 ├── backend
 │   ├── app
 │   │   ├── api
