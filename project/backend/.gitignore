@@ -57,5 +57,5 @@ Thumbs.db
 *.lock
 
 # Frontend
-/home/rick/Área de Trabalho/TestesDev/TestesDevStefanini/project/frontend
+../frontend
 
